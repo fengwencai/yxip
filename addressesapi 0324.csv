@@ -23,6 +23,20 @@
 154.197.121.248,8443,true,SJC,North America,San Jose,177 ms,11707 kB/s
 154.197.121.253,443,true,SJC,North America,San Jose,175 ms,11228 kB/s
 202.81.231.30,55576,true,HKG,Asia Pacific,Hong Kong,85 ms,10016 kB/s
+35.221.215.200,2023,true,TPE,Asia Pacific,Taipei,81 ms,19409 kB/s
+18.183.137.85,2083,true,LAX,North America,Los Angeles,72 ms,17304 kB/s
+47.128.164.52,9999,true,SIN,Asia Pacific,Singapore,98 ms,16190 kB/s
+118.163.128.81,17333,true,KHH,Asia Pacific,Kaohsiung City,93 ms,15402 kB/s
+129.154.212.181,44699,true,NRT,Asia Pacific,Tokyo,73 ms,13899 kB/s
+154.17.2.125,39201,true,LAX,North America,Los Angeles,189 ms,11750 kB/s
+8.210.245.224,443,true,HKG,Asia Pacific,Hong Kong,61 ms,11741 kB/s
+154.197.121.127,443,true,SJC,North America,San Jose,169 ms,11163 kB/s
+193.122.122.16,40377,true,LAX,North America,Los Angeles,71 ms,10978 kB/s
+154.197.121.248,8443,true,SJC,North America,San Jose,178 ms,10858 kB/s
+154.197.121.99,8443,true,SJC,North America,San Jose,173 ms,10489 kB/s
+217.163.76.88,443,true,SJC,North America,San Jose,174 ms,10488 kB/s
+217.163.76.59,443,true,SJC,North America,San Jose,169 ms,10407 kB/s
+154.197.121.254,8443,true,SJC,North America,San Jose,177 ms,10236 kB/s
 219.240.54.189,10434,true,ICN,Asia Pacific,Seoul,73 ms,9973 kB/s
 45.251.240.229,34237,true,KIX,Asia Pacific,Osaka,89 ms,9919 kB/s
 154.17.28.199,8001,true,LAX,North America,Los Angeles,168 ms,9690 kB/s
