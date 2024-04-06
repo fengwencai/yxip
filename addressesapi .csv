@@ -1,23 +1,23 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.76.49.246,2082,FALSE,自己的,Asia Pacific,Hong Kong,32,10.87
-8.218.188.129,8880,FALSE,自己的,Asia Pacific,Hong Kong,33,10.85
-8.218.211.17,2052,FALSE,自己的,Asia Pacific,Hong Kong,29,10.81
-8.218.211.17,2086,FALSE,自己的,Asia Pacific,Hong Kong,32,10.77
-47.76.49.246,2053,TRUE,自己的,Asia Pacific,Hong Kong,31,10.72
-47.76.49.246,8880,FALSE,自己的,Asia Pacific,Hong Kong,33,10.66
-124.156.173.46,443,TRUE,自己的,Asia Pacific,Hong Kong,48,10.58
-223.122.34.18,30466,TRUE,自己的,Asia Pacific,Hong Kong,53,10.51
-124.156.173.46,80,FALSE,自己的,Asia Pacific,Hong Kong,49,10.49
-8.217.145.40,8880,FALSE,自己的,Asia Pacific,Hong Kong,30,10.43
-103.200.112.123,30809,FALSE,自己的,Asia Pacific,Hong Kong,43,10.33
-156.251.183.241,30808,FALSE,自己的,Asia Pacific,Hong Kong,59,10.24
-103.20.223.93,30809,FALSE,自己的,Asia Pacific,Hong Kong,69,9.99
-43.154.96.33,80,FALSE,自己的,Asia Pacific,Hong Kong,51,9.97
-43.154.96.33,443,TRUE,自己的,Asia Pacific,Hong Kong,45,9.87
-154.3.35.71,37612,TRUE,自己的,Asia Pacific,Hong Kong,105,9.64
-8.209.255.195,2082,FALSE,自己的,Asia Pacific,Hong Kong,187,9.54
-8.209.255.195,2095,FALSE,自己的,Asia Pacific,Hong Kong,158,9.28
-8.209.255.195,2052,FALSE,自己的,Asia Pacific,Hong Kong,160,8.8
+47.76.49.246,2082,FALSE,自己的,Asia Pacific,Hong Kong,32,10870 kB/s
+8.218.188.129,8880,FALSE,自己的,Asia Pacific,Hong Kong,33,10850 kB/s
+8.218.211.17,2052,FALSE,自己的,Asia Pacific,Hong Kong,29,10810 kB/s
+8.218.211.17,2086,FALSE,自己的,Asia Pacific,Hong Kong,32,10770 kB/s
+47.76.49.246,2053,TRUE,自己的,Asia Pacific,Hong Kong,31,10720 kB/s
+47.76.49.246,8880,FALSE,自己的,Asia Pacific,Hong Kong,33,10660 kB/s
+124.156.173.46,443,TRUE,自己的,Asia Pacific,Hong Kong,48,10580 kB/s
+223.122.34.18,30466,TRUE,自己的,Asia Pacific,Hong Kong,53,10510 kB/s
+124.156.173.46,80,FALSE,自己的,Asia Pacific,Hong Kong,49,10490 kB/s
+8.217.145.40,8880,FALSE,自己的,Asia Pacific,Hong Kong,30,10430 kB/s
+103.200.112.123,30809,FALSE,自己的,Asia Pacific,Hong Kong,43,10330 kB/s
+156.251.183.241,30808,FALSE,自己的,Asia Pacific,Hong Kong,59,10240 kB/s
+103.20.223.93,30809,FALSE,自己的,Asia Pacific,Hong Kong,69,9990 kB/s
+43.154.96.33,80,FALSE,自己的,Asia Pacific,Hong Kong,51,9970 kB/s
+43.154.96.33,443,TRUE,自己的,Asia Pacific,Hong Kong,45,9870 kB/s
+154.3.35.71,37612,TRUE,自己的,Asia Pacific,Hong Kong,105,9640 kB/s
+8.209.255.195,2082,FALSE,自己的,Asia Pacific,Hong Kong,187,9540 kB/s
+8.209.255.195,2095,FALSE,自己的,Asia Pacific,Hong Kong,158,9280 kB/s
+8.209.255.195,2052,FALSE,自己的,Asia Pacific,Hong Kong,160,880 kB/s
 118.163.128.81,17333,true,KHH,Asia Pacific,Kaohsiung City,85 ms,19986 kB/s
 176.119.150.204,2008,true,NRT,Asia Pacific,Tokyo,79 ms,13485 kB/s
 45.66.128.216,2001,true,HKG,Asia Pacific,Hong Kong,86 ms,13384 kB/s
