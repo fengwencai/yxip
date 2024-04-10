@@ -1,23 +1,9 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.76.49.246,2082,FALSE,自己的,Asia Pacific,Hong Kong,32,10870 kB/s
-8.218.188.129,8880,FALSE,自己的,Asia Pacific,Hong Kong,33,10850 kB/s
-8.218.211.17,2052,FALSE,自己的,Asia Pacific,Hong Kong,29,10810 kB/s
-8.218.211.17,2086,FALSE,自己的,Asia Pacific,Hong Kong,32,10770 kB/s
 47.76.49.246,2053,TRUE,自己的,Asia Pacific,Hong Kong,31,10720 kB/s
-47.76.49.246,8880,FALSE,自己的,Asia Pacific,Hong Kong,33,10660 kB/s
 124.156.173.46,443,TRUE,自己的,Asia Pacific,Hong Kong,48,10580 kB/s
 223.122.34.18,30466,TRUE,自己的,Asia Pacific,Hong Kong,53,10510 kB/s
-124.156.173.46,80,FALSE,自己的,Asia Pacific,Hong Kong,49,10490 kB/s
-8.217.145.40,8880,FALSE,自己的,Asia Pacific,Hong Kong,30,10430 kB/s
-103.200.112.123,30809,FALSE,自己的,Asia Pacific,Hong Kong,43,10330 kB/s
-156.251.183.241,30808,FALSE,自己的,Asia Pacific,Hong Kong,59,10240 kB/s
-103.20.223.93,30809,FALSE,自己的,Asia Pacific,Hong Kong,69,9990 kB/s
-43.154.96.33,80,FALSE,自己的,Asia Pacific,Hong Kong,51,9970 kB/s
 43.154.96.33,443,TRUE,自己的,Asia Pacific,Hong Kong,45,9870 kB/s
 154.3.35.71,37612,TRUE,自己的,Asia Pacific,Hong Kong,105,9640 kB/s
-8.209.255.195,2082,FALSE,自己的,Asia Pacific,Hong Kong,187,9540 kB/s
-8.209.255.195,2095,FALSE,自己的,Asia Pacific,Hong Kong,158,9280 kB/s
-8.209.255.195,2052,FALSE,自己的,Asia Pacific,Hong Kong,160,8800 kB/s
 8.219.193.202,443,TRUE,自己的SIN1,Asia Pacific,Singapore,58,10170 kB/s
 13.228.130.34,443,TRUE,自己的SIN2,Asia Pacific,Singapore,61,10150 kB/s
 47.236.145.85,443,TRUE,自己的SIN3,Asia Pacific,Singapore,58,10150 kB/s
@@ -31,64 +17,113 @@
 47.236.116.182,443,TRUE,自己的SIN11,Asia Pacific,Singapore,61,8870 kB/s
 47.236.12.195,443,TRUE,自己的SIN12,Asia Pacific,Singapore,59,8770 kB/s
 47.236.116.26,443,TRUE,自己的SIN13,Asia Pacific,Singapore,58,8740 kB/s
-8.219.193.22,80,FALSE,非TLS SIN1,Asia Pacific,Singapore,200,11111 kb/s
-8.219.73.21,80,FALSE,非TLS SIN2,Asia Pacific,Singapore,82,10111 kb/s
-8.222.188.56,80,FALSE,非TLS SIN3,Asia Pacific,Singapore,244,10111 kb/s
-47.236.88.134,80,FALSE,非TLS SIN4,Asia Pacific,Singapore,82,10111 kb/s
-47.236.79.77,80,FALSE,非TLS SIN5,Asia Pacific,Singapore,208,10111 kb/s
-8.222.145.110,80,FALSE,非TLS SIN6,Asia Pacific,Singapore,77,10111 kb/s
-47.236.227.21,80,FALSE,非TLS SIN7,Asia Pacific,Singapore,168,10111 kb/s
-8.222.144.50,80,FALSE,非TLS SIN8,Asia Pacific,Singapore,90,10111 kb/s
-47.236.150.13,80,FALSE,非TLS SIN9,Asia Pacific,Singapore,84,10111 kb/s
-47.236.11.68,80,FALSE,非TLS SIN10,Asia Pacific,Singapore,84,10111 kb/s
-47.236.202.91,80,FALSE,非TLS SIN11,Asia Pacific,Singapore,89,10111 kb/s
-47.236.155.170,80,FALSE,非TLS SIN12,Asia Pacific,Singapore,84,10111 kb/s
-8.219.43.243,80,FALSE,非TLS SIN13,Asia Pacific,Singapore,80,10111 kb/s
-8.219.188.162,80,FALSE,非TLS SIN14,Asia Pacific,Singapore,94,10111 kb/s
-47.236.83.196,80,FALSE,非TLS SIN15,Asia Pacific,Singapore,119,10111 kb/s
-47.236.125.4,80,FALSE,非TLS SIN16,Asia Pacific,Singapore,233,10111 kb/s
-47.245.110.13,80,FALSE,非TLS SIN17,Asia Pacific,Singapore,230,10111 kb/s
-47.236.145.180,80,FALSE,非TLS SIN18,Asia Pacific,Singapore,265,10111 kb/s
-8.222.162.45,80,FALSE,非TLS SIN19,Asia Pacific,Singapore,80,10111 kb/s
-47.236.184.14,80,FALSE,非TLS SIN20,Asia Pacific,Singapore,248,10111 kb/s
-8.219.245.232,80,FALSE,非TLS SIN21,Asia Pacific,Singapore,81,10111 kb/s
-8.219.153.44,80,FALSE,非TLS SIN22,Asia Pacific,Singapore,74,10111 kb/s
-47.245.105.224,80,FALSE,非TLS SIN23,Asia Pacific,Singapore,83,10111 kb/s
-8.222.238.141,80,FALSE,非TLS SIN24,Asia Pacific,Singapore,230,10111 kb/s
-47.236.171.205,80,FALSE,非TLS SIN25,Asia Pacific,Singapore,101,10111 kb/s
-47.236.74.20,80,FALSE,非TLS SIN26,Asia Pacific,Singapore,229,10111 kb/s
-47.245.114.163,80,FALSE,非TLS SIN27,Asia Pacific,Singapore,114,10111 kb/s
-47.236.204.110,80,FALSE,非TLS SIN28,Asia Pacific,Singapore,155,10111 kb/s
-47.236.7.13,80,FALSE,非TLS SIN29,Asia Pacific,Singapore,236,10111 kb/s
-47.245.113.117,80,FALSE,非TLS SIN30,Asia Pacific,Singapore,204,10111 kb/s
-47.236.4.129,80,FALSE,非TLS SIN31,Asia Pacific,Singapore,82,9111 kb/s
-47.237.8.82,80,FALSE,非TLS SIN32,Asia Pacific,Singapore,215,9111 kb/s
-47.236.198.189,80,FALSE,非TLS SIN33,Asia Pacific,Singapore,114,9111 kb/s
-47.236.166.76,80,FALSE,非TLS SIN34,Asia Pacific,Singapore,97,9111 kb/s
-8.222.140.185,80,FALSE,非TLS SIN35,Asia Pacific,Singapore,116,9111 kb/s
-8.219.173.195,80,FALSE,非TLS SIN36,Asia Pacific,Singapore,68,9111 kb/s
-47.236.116.208,80,FALSE,非TLS SIN37,Asia Pacific,Singapore,238,9111 kb/s
-47.236.10.100,80,FALSE,非TLS SIN38,Asia Pacific,Singapore,231,9111 kb/s
-47.236.193.5,80,FALSE,非TLS SIN39,Asia Pacific,Singapore,278,9111 kb/s
-8.219.174.142,80,FALSE,非TLS SIN40,Asia Pacific,Singapore,235,9111 kb/s
-47.236.164.215,80,FALSE,非TLS SIN41,Asia Pacific,Singapore,82,9111 kb/s
-8.219.60.54,80,FALSE,非TLS SIN42,Asia Pacific,Singapore,80,9111 kb/s
-47.236.149.160,80,FALSE,非TLS SIN43,Asia Pacific,Singapore,85,9111 kb/s
-8.222.187.107,80,FALSE,非TLS SIN44,Asia Pacific,Singapore,130,9111 kb/s
-47.236.204.152,80,FALSE,非TLS SIN45,Asia Pacific,Singapore,101,9111 kb/s
-8.222.168.234,80,FALSE,非TLS SIN46,Asia Pacific,Singapore,230,9111 kb/s
-8.219.58.64,80,FALSE,非TLS SIN47,Asia Pacific,Singapore,83,9111 kb/s
-8.219.107.199,80,FALSE,非TLS SIN48,Asia Pacific,Singapore,230,9111 kb/s
-47.236.172.41,80,FALSE,非TLS SIN49,Asia Pacific,Singapore,200,9111 kb/s
-8.219.248.170,80,FALSE,非TLS SIN50,Asia Pacific,Singapore,82,8111 kb/s
-8.219.140.229,80,FALSE,非TLS SIN51,Asia Pacific,Singapore,84,8111 kb/s
-47.236.12.73,80,FALSE,非TLS SIN52,Asia Pacific,Singapore,218,8111 kb/s
-47.236.94.113,80,FALSE,非TLS SIN53,Asia Pacific,Singapore,54,8111 kb/s
-8.219.213.84,80,FALSE,非TLS SIN54,Asia Pacific,Singapore,84,8111 kb/s
-8.222.212.219,80,FALSE,非TLS SIN55,Asia Pacific,Singapore,117,8111 kb/s
-47.236.206.153,80,FALSE,非TLS SIN56,Asia Pacific,Singapore,79,8111 kb/s
-8.219.89.201,80,FALSE,非TLS SIN57,Asia Pacific,Singapore,117,8111 kb/s
-8.219.65.191,80,FALSE,非TLS SIN58,Asia Pacific,Singapore,149,8111 kb/s
+47.245.114.163,2053,TRUE,自己的SIN14,Asia Pacific,Singapore,90,10111 kb/s
+47.236.83.239,2053,TRUE,自己的SIN15,Asia Pacific,Singapore,95,10111 kb/s
+8.219.104.242,2053,TRUE,自己的SIN16,Asia Pacific,Singapore,108,10111 kb/s
+8.219.107.199,2053,TRUE,自己的SIN17,Asia Pacific,Singapore,97,10111 kb/s
+8.222.237.131,2053,TRUE,自己的SIN18,Asia Pacific,Singapore,97,10111 kb/s
+8.222.227.191,2053,TRUE,自己的SIN19,Asia Pacific,Singapore,105,10111 kb/s
+47.236.94.113,2053,TRUE,自己的SIN20,Asia Pacific,Singapore,102,10111 kb/s
+8.222.212.116,2053,TRUE,自己的SIN21,Asia Pacific,Singapore,105,10111 kb/s
+8.222.159.252,2053,TRUE,自己的SIN22,Asia Pacific,Singapore,108,10111 kb/s
+8.222.252.123,2053,TRUE,自己的SIN23,Asia Pacific,Singapore,91,10111 kb/s
+8.219.193.22,2053,TRUE,自己的SIN24,Asia Pacific,Singapore,102,10111 kb/s
+47.236.150.109,2053,TRUE,自己的SIN25,Asia Pacific,Singapore,109,10111 kb/s
+47.236.78.57,2053,TRUE,自己的SIN26,Asia Pacific,Singapore,95,10111 kb/s
+47.236.198.189,2053,TRUE,自己的SIN27,Asia Pacific,Singapore,97,10111 kb/s
+47.236.104.123,2053,TRUE,自己的SIN28,Asia Pacific,Singapore,112,10111 kb/s
+8.219.167.113,2053,TRUE,自己的SIN29,Asia Pacific,Singapore,97,10111 kb/s
+8.222.184.198,2053,TRUE,自己的SIN30,Asia Pacific,Singapore,105,10111 kb/s
+47.236.109.115,2053,TRUE,自己的SIN31,Asia Pacific,Singapore,102,10111 kb/s
+8.222.249.190,2053,TRUE,自己的SIN32,Asia Pacific,Singapore,97,10111 kb/s
+47.236.163.95,2053,TRUE,自己的SIN33,Asia Pacific,Singapore,97,10111 kb/s
+8.219.82.177,2053,TRUE,自己的SIN34,Asia Pacific,Singapore,95,10111 kb/s
+47.236.12.73,2053,TRUE,自己的SIN35,Asia Pacific,Singapore,108,10111 kb/s
+47.236.75.113,2053,TRUE,自己的SIN36,Asia Pacific,Singapore,97,10111 kb/s
+47.236.169.15,2053,TRUE,自己的SIN37,Asia Pacific,Singapore,109,10111 kb/s
+8.222.212.219,2053,TRUE,自己的SIN38,Asia Pacific,Singapore,108,10111 kb/s
+47.236.204.110,2053,TRUE,自己的SIN39,Asia Pacific,Singapore,92,10111 kb/s
+8.219.89.201,2053,TRUE,自己的SIN40,Asia Pacific,Singapore,91,10111 kb/s
+8.222.182.10,2053,TRUE,自己的SIN41,Asia Pacific,Singapore,91,10111 kb/s
+47.236.79.87,2053,TRUE,自己的SIN42,Asia Pacific,Singapore,106,10111 kb/s
+8.219.77.222,2053,TRUE,自己的SIN43,Asia Pacific,Singapore,110,10111 kb/s
+47.236.39.34,2053,TRUE,自己的SIN44,Asia Pacific,Singapore,100,10111 kb/s
+8.222.129.32,2053,TRUE,自己的SIN45,Asia Pacific,Singapore,97,10111 kb/s
+47.236.171.20,2053,TRUE,自己的SIN46,Asia Pacific,Singapore,102,10111 kb/s
+47.236.201.98,2053,TRUE,自己的SIN47,Asia Pacific,Singapore,108,10111 kb/s
+47.236.97.111,2053,TRUE,自己的SIN48,Asia Pacific,Singapore,102,10111 kb/s
+47.236.15.73,2053,TRUE,自己的SIN49,Asia Pacific,Singapore,92,10111 kb/s
+47.236.172.95,2053,TRUE,自己的SIN50,Asia Pacific,Singapore,107,10111 kb/s
+47.236.123.133,2053,TRUE,自己的SIN51,Asia Pacific,Singapore,101,10111 kb/s
+8.222.248.188,2053,TRUE,自己的SIN52,Asia Pacific,Singapore,102,10111 kb/s
+47.236.147.146,2053,TRUE,自己的SIN53,Asia Pacific,Singapore,101,10111 kb/s
+47.236.171.112,2053,TRUE,自己的SIN54,Asia Pacific,Singapore,101,10111 kb/s
+47.236.96.141,2053,TRUE,自己的SIN55,Asia Pacific,Singapore,97,10111 kb/s
+8.222.147.203,2053,TRUE,自己的SIN56,Asia Pacific,Singapore,92,10111 kb/s
+47.236.233.166,2053,TRUE,自己的SIN57,Asia Pacific,Singapore,97,10111 kb/s
+47.236.88.134,2053,TRUE,自己的SIN58,Asia Pacific,Singapore,107,10111 kb/s
+47.236.166.184,2053,TRUE,自己的SIN59,Asia Pacific,Singapore,97,10111 kb/s
+47.236.10.100,2053,TRUE,自己的SIN60,Asia Pacific,Singapore,95,10111 kb/s
+47.245.111.171,2053,TRUE,自己的SIN61,Asia Pacific,Singapore,93,10111 kb/s
+47.236.23.135,2053,TRUE,自己的SIN62,Asia Pacific,Singapore,105,10111 kb/s
+47.237.8.82,2053,TRUE,自己的SIN63,Asia Pacific,Singapore,107,10111 kb/s
+47.236.74.20,2053,TRUE,自己的SIN64,Asia Pacific,Singapore,55,10111 kb/s
+47.236.161.155,2053,TRUE,自己的SIN65,Asia Pacific,Singapore,100,10111 kb/s
+47.236.7.206,2053,TRUE,自己的SIN66,Asia Pacific,Singapore,101,10111 kb/s
+8.219.145.245,2053,TRUE,自己的SIN67,Asia Pacific,Singapore,94,10111 kb/s
+8.222.168.155,2053,TRUE,自己的SIN68,Asia Pacific,Singapore,94,10111 kb/s
+47.236.179.182,2053,TRUE,自己的SIN69,Asia Pacific,Singapore,95,10111 kb/s
+47.236.169.236,2053,TRUE,自己的SIN70,Asia Pacific,Singapore,97,10111 kb/s
+8.222.144.219,2053,TRUE,自己的SIN71,Asia Pacific,Singapore,108,10111 kb/s
+8.222.187.107,2053,TRUE,自己的SIN72,Asia Pacific,Singapore,105,10111 kb/s
+8.222.131.102,2053,TRUE,自己的SIN73,Asia Pacific,Singapore,97,10111 kb/s
+47.236.174.206,2053,TRUE,自己的SIN74,Asia Pacific,Singapore,105,10111 kb/s
+8.219.213.84,2053,TRUE,自己的SIN75,Asia Pacific,Singapore,105,10111 kb/s
+47.236.172.71,2053,TRUE,自己的SIN76,Asia Pacific,Singapore,93,10111 kb/s
+8.219.140.229,2053,TRUE,自己的SIN77,Asia Pacific,Singapore,108,10111 kb/s
+47.236.97.90,2053,TRUE,自己的SIN78,Asia Pacific,Singapore,102,10111 kb/s
+47.245.113.117,2053,TRUE,自己的SIN79,Asia Pacific,Singapore,97,10111 kb/s
+8.222.244.192,2053,TRUE,自己的SIN80,Asia Pacific,Singapore,97,10111 kb/s
+158.178.241.45,2053,TRUE,自己的SIN81,Asia Pacific,Singapore,112,10111 kb/s
+47.236.121.23,2053,TRUE,自己的SIN82,Asia Pacific,Singapore,107,10111 kb/s
+47.245.118.197,2053,TRUE,自己的SIN83,Asia Pacific,Singapore,101,10111 kb/s
+8.222.175.78,2053,TRUE,自己的SIN84,Asia Pacific,Singapore,105,10111 kb/s
+47.236.104.11,2053,TRUE,自己的SIN85,Asia Pacific,Singapore,91,10111 kb/s
+47.236.158.158,2053,TRUE,自己的SIN86,Asia Pacific,Singapore,97,10111 kb/s
+47.236.150.13,2053,TRUE,自己的SIN87,Asia Pacific,Singapore,92,10111 kb/s
+47.236.192.198,2053,TRUE,自己的SIN88,Asia Pacific,Singapore,97,10111 kb/s
+8.222.155.242,2053,TRUE,自己的SIN89,Asia Pacific,Singapore,102,10111 kb/s
+8.219.53.142,2053,TRUE,自己的SIN90,Asia Pacific,Singapore,109,10111 kb/s
+47.236.4.129,2053,TRUE,自己的SIN91,Asia Pacific,Singapore,101,10111 kb/s
+8.222.154.50,2053,TRUE,自己的SIN92,Asia Pacific,Singapore,102,10111 kb/s
+47.236.7.246,2053,TRUE,自己的SIN93,Asia Pacific,Singapore,97,10111 kb/s
+47.245.80.142,2053,TRUE,自己的SIN94,Asia Pacific,Singapore,92,10111 kb/s
+47.236.144.196,2053,TRUE,自己的SIN95,Asia Pacific,Singapore,95,10111 kb/s
+47.236.88.181,2053,TRUE,自己的SIN96,Asia Pacific,Singapore,105,10111 kb/s
+8.222.249.98,2053,TRUE,自己的SIN97,Asia Pacific,Singapore,109,10111 kb/s
+47.236.163.221,2053,TRUE,自己的SIN98,Asia Pacific,Singapore,106,10111 kb/s
+8.222.215.228,2053,TRUE,自己的SIN99,Asia Pacific,Singapore,102,10111 kb/s
+8.222.145.110,2053,TRUE,自己的SIN100,Asia Pacific,Singapore,95,10111 kb/s
+47.245.110.13,2053,TRUE,自己的SIN101,Asia Pacific,Singapore,97,10111 kb/s
+8.222.188.56,2053,TRUE,自己的SIN102,Asia Pacific,Singapore,105,10111 kb/s
+47.236.155.170,2053,TRUE,自己的SIN103,Asia Pacific,Singapore,97,10111 kb/s
+8.219.122.55,2053,TRUE,自己的SIN104,Asia Pacific,Singapore,94,10111 kb/s
+47.236.117.48,2053,TRUE,自己的SIN105,Asia Pacific,Singapore,101,10111 kb/s
+8.222.129.245,2053,TRUE,自己的SIN106,Asia Pacific,Singapore,108,10111 kb/s
+8.219.237.250,2053,TRUE,自己的SIN107,Asia Pacific,Singapore,107,10111 kb/s
+47.236.97.58,2053,TRUE,自己的SIN108,Asia Pacific,Singapore,97,9111 kb/s
+47.236.180.51,2053,TRUE,自己的SIN109,Asia Pacific,Singapore,108,9111 kb/s
+47.236.116.182,2053,TRUE,自己的SIN110,Asia Pacific,Singapore,97,9111 kb/s
+47.245.86.230,2053,TRUE,自己的SIN111,Asia Pacific,Singapore,107,9111 kb/s
+47.236.114.167,2053,TRUE,自己的SIN112,Asia Pacific,Singapore,109,9111 kb/s
+8.222.146.222,2053,TRUE,自己的SIN113,Asia Pacific,Singapore,89,9111 kb/s
+47.237.70.15,2053,TRUE,自己的SIN114,Asia Pacific,Singapore,70,9111 kb/s
+8.222.133.247,2053,TRUE,自己的SIN115,Asia Pacific,Singapore,102,9111 kb/s
+8.219.248.170,2053,TRUE,自己的SIN116,Asia Pacific,Singapore,89,9111 kb/s
+8.222.180.86,2053,TRUE,自己的SIN117,Asia Pacific,Singapore,102,9111 kb/s
+47.236.145.85,2053,TRUE,自己的SIN118,Asia Pacific,Singapore,100,8111 kb/s
+8.219.154.107,2053,TRUE,自己的SIN119,Asia Pacific,Singapore,105,8111 kb/s
+47.236.144.48,2053,TRUE,自己的SIN120,Asia Pacific,Singapore,91,8111 kb/s
 118.163.128.81,17333,true,KHH,Asia Pacific,Kaohsiung City,85 ms,19986 kB/s
 176.119.150.204,2008,true,NRT,Asia Pacific,Tokyo,79 ms,13485 kB/s
 45.66.128.216,2001,true,HKG,Asia Pacific,Hong Kong,86 ms,13384 kB/s
