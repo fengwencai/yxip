@@ -9,3 +9,8 @@
 8.219.174.213,2083,TRUE,SIN,Asia Pacific,Singapore,234 ms,8447 kB/s
 47.76.33.40,2087,TRUE,HKG,Asia Pacific,Hong Kong,64 ms,8227 kB/s
 47.76.204.76,2083,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,8095 kB/s
+13.250.131.37,443,TRUE,SIN,Asia Pacific,Singapore,99 ms,19882 kB/s
+15.165.49.161,8080,TRUE,ICN,Asia Pacific,Seoul,116 ms,17482 kB/s
+13.125.218.78,443,TRUE,ICN,Asia Pacific,Seoul,106 ms,12553 kB/s
+54.150.91.84,443,TRUE,NRT,Asia Pacific,Tokyo,77 ms,11670 kB/s
+52.9.112.189,443,TRUE,SJC,North America,San Jose,172 ms,8402 kB/s
